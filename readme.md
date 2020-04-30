@@ -1,4 +1,4 @@
-# Linux
+# Linux and Shell
 
 - Search for a file
 ```
@@ -42,6 +42,10 @@ rm -rf /path/to/dir
 touch file_to_be_created.txt
 ```
 
+- Open new terminal `CTRL + SHIFT + T`
+
+- To view shell hostory type `history`
+
 # Github
 
 - `.git' is the folder containing information about the repository, check for example `config` file in this folder to see the origin of the repository. 
@@ -58,6 +62,10 @@ touch file_to_be_created.txt
 ```
 git pull origin master
 ```
+
+- Undo `git add`
+
+
 
 # Vim 
 
