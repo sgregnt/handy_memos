@@ -23,3 +23,7 @@ find /home/ -name .git -type d -prune
 ```
 ls -a
 ```
+
+# Github
+
+- `.git' is the folder containing information about the repository, check for example `config` file in this folder to see the origin of the repository. 
