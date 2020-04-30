@@ -27,8 +27,15 @@ ls -a
 - Remove directory 
 
 ```
-rm -r dir1
+rm -r /path/to/dir
 ```
+
+or 
+
+```
+rm -rf /path/to/dir
+```
+to avoid interactive mode. 
 
 # Github
 
