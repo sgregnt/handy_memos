@@ -25,12 +25,12 @@ ls -a
 ```
 
 - Remove directory 
-
+... test
 ```
 rm -r /path/to/dir
 ```
 
-...or 
+   or 
 
 ```
 rm -rf /path/to/dir
