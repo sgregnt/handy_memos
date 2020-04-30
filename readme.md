@@ -30,12 +30,12 @@ ls -a
 rm -r /path/to/dir
 ```
 
-or 
+⋅⋅⋅or 
 
 ```
 rm -rf /path/to/dir
 ```
-to avoid interactive mode. 
+⋅⋅⋅to avoid interactive mode. 
 
 # Github
 
