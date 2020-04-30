@@ -46,6 +46,8 @@ touch file_to_be_created.txt
 
 - To view shell hostory type `history`
 
+- Show hidden files in explorer (Ubunto) toggle `CTRL + H`
+
 # Github
 
 - `.git' is the folder containing information about the repository, check for example `config` file in this folder to see the origin of the repository. 
