@@ -41,6 +41,11 @@ to avoid interactive mode.
 
 - `.git' is the folder containing information about the repository, check for example `config` file in this folder to see the origin of the repository. 
 
+- Update local copy 
+
+```
+git pull origin master
+```
 
 # Vim 
 
