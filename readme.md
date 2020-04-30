@@ -36,9 +36,22 @@ rm -rf /path/to/dir
 ```
 ...to avoid interactive mode. 
 
+- Create file 
+
+```
+touch file_to_be_created.txt
+```
+
 # Github
 
 - `.git' is the folder containing information about the repository, check for example `config` file in this folder to see the origin of the repository. 
+
+- Fix pdf corruption with end line changes from CRLF to LF, by placing `.gitattributes` in `.git\info\` the contents should be
+```
+*.exe binary 
+*.pdf binary
+```
+(`#` comments things out)
 
 - Update local copy 
 
