@@ -52,7 +52,7 @@ touch file_to_be_created.txt
 
 - `.git' is the folder containing information about the repository, check for example `config` file in this folder to see the origin of the repository. 
 
-- Fix pdf corruption with end line changes from CRLF to LF, by placing `.gitattributes` in `.git\info\` the contents should be
+- (Didn't work) Fix pdf corruption with end line changes from CRLF to LF, by placing `.gitattributes` in `.git\info\` the contents should be
 ```
 *.exe binary 
 *.pdf binary
