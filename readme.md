@@ -91,3 +91,13 @@ git pull origin master
 <img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/mesh_with_displacments.png" width="40%">
 
 ```
+- Multiple images in the same line
+
+```
+<p float="left">
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_1.png" width="35%">
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_2.png" width="35%">
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_3.png" width="35%">
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_4.png" width="35%">
+</p>
+```
