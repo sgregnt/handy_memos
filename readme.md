@@ -79,3 +79,8 @@ git pull origin master
 # Matplotlib
 
 - To change backend has to add things of the form: `import matplotlib` and `matplotlib.use('TkAgg')` 
+
+
+# Markdown 
+
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
