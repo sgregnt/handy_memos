@@ -84,3 +84,10 @@ git pull origin master
 # Markdown 
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+- Resize images 
+
+```
+<img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/mesh_with_displacments.png" width="40%">
+
+```
