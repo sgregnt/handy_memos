@@ -67,7 +67,9 @@ git pull origin master
 
 - Undo `git add`
 
+# Python 
 
+-  [Complexity of python operations](https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt) 
 
 # Vim 
 
