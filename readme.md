@@ -72,3 +72,8 @@ git pull origin master
 # Vim 
 
 -  To quit type `:q`
+
+
+# Matplotlib
+
+- To change backend has to add things of the form: `import matplotlib` and `matplotlib.use('TkAgg')` 
