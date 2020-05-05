@@ -50,7 +50,7 @@ touch file_to_be_created.txt
 
 # Github
 
-- `.git' is the folder containing information about the repository, check for example `config` file in this folder to see the origin of the repository. 
+- `.git` is the folder containing information about the repository, check for example `config` file in this folder to see the origin of the repository. 
 
 - (Didn't work) Fix pdf corruption with end line changes from CRLF to LF, by placing `.gitattributes` in `.git\info\` the contents should be
 ```
@@ -65,7 +65,7 @@ touch file_to_be_created.txt
 git pull origin master
 ```
 
-- Undo `git add`
+- To undo `git add` do `git reset`
 
 # Python 
 
