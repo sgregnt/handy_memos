@@ -101,3 +101,11 @@ git pull origin master
 <img src="https://github.com/sgregnt/geometric_processing_net/blob/master/pics/compare_4.png" width="35%">
 </p>
 ```
+
+# Pandas
+
+- Show all columns when printing (instead of dots) 
+
+```
+pd.set_option('display.max_columns', None)
+```
