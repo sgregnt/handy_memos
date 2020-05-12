@@ -109,3 +109,7 @@ git pull origin master
 ```
 pd.set_option('display.max_columns', None)
 ```
+
+# SQL
+
+- `COUNT(column_name)` couns non `null` values only, while `COUNT(*)` counts both `null` and non-`null` values
